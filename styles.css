@@ -1,0 +1,14 @@
+body {
+    background-color: blueviolet;
+    font-family: "Comic Sans MS";
+}
+h1, h3, h4 {
+    color: cyan;
+}
+.important {
+    color: saddlebrown;
+}
+img {
+    width: 500px;
+    height: 500px;
+}
